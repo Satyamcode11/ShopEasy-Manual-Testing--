@@ -198,7 +198,7 @@ TS-PROFILE-007 — Verify that the updated profile information is displayed corr
 TS-PROFILE-008 — Verify that mandatory profile fields are validated when left empty.
 TS-PROFILE-009 — Verify that the user can change their password from the Profile section.
 TS-PROFILE-010 — Verify that the new password is updated successfully when valid password details are provided.
-TS-PROFILE-011 — Verify that the updated profile information seen after the user logs out and logs in again.
+
 
 
 # Test Scenario - Log Out
